@@ -1,9 +1,8 @@
-
 {
-    "name": "RBXTRADE",
+    "name": "Extension Title",
     "version": "1.0", 
     "manifest_version": 2,
-    "description": "Trading extention ,sniper added ", 
+    "description": "Extension description.", 
     "browser_action": {
         "default_icon": "icon.png"
        
